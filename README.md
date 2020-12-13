@@ -1,7 +1,7 @@
-#Diabetes Detector
+# Diabetes Detector
 Use Machine Learning to predict Diabetes!
 This web app helps determine if one has diabetes based on the user input metrics
-![Alt Text](Background deisgn.jpg)
+
 ## Screenshots
 ![Alt Text](demo_ss.jpg)
 
