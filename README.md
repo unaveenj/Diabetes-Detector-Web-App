@@ -5,7 +5,7 @@ This web app helps determine if one has diabetes based on the user input metrics
 ## Screenshots
 ![Alt Text](demo_ss.jpg)
 
-##Demo
+## Demo
 ![Alt Text](demo.gif)
 
 ## Instructions
