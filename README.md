@@ -1,7 +1,7 @@
 # Diabetes Detector
 Use Machine Learning to predict Diabetes!
 This web app helps determine if one has diabetes based on the user input metrics
-Deplyed in Heroku : [label](https://diabetes-ml-app-2020.herokuapp.com/)
+Deplyed in Heroku : [Diabetes Predictor Web App Click here](https://diabetes-ml-app-2020.herokuapp.com/)
 
 ## Screenshots
 ![Alt Text](demo_ss.jpg)
